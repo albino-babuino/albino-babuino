@@ -1,5 +1,5 @@
 # SERGIO GARCÍA
-## _Dev in process..._
+**_Dev In Process..._**
 
 ![avatar](https://res.cloudinary.com/dy9zlaudk/image/upload/v1666545056/PhotoRoom-20220917_163759_urtqsr_1_lvyare.png)
 
@@ -16,3 +16,4 @@
 - MySQL
 - CSS (Sass, Bootstrap, Styled Components,...)
 - ✨Magia✨
+
