@@ -11,6 +11,8 @@
 - Node
 - MongoDB
 - CSS (Sass, Styled Components, Bootstrap, Materialize,...)
+- Despliegue de aplicaciones con Netlify, Railway, Heroku,...
+- Otras: Git, Github, consola de comandos, NPM, Homebrew, Vite, expresiones regulares, Cloudinary, Nodemailer, Figma, scrapping, Auth0, smtp,...
 - ✨Magia✨
 
 ##### Nivel: Junior..., ¡pero con muchas ganas! 💪
@@ -21,4 +23,4 @@
 
 ## Formación: 
 - Formación académica: Actualmente cursando el Ciclo de Desarrollo Web
-- Cursos: Más de 50 cursos en estos dos últimos años.
+- Cursos: Más de 70 cursos en estos dos últimos años.
