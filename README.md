@@ -17,10 +17,10 @@
 
 ##### Nivel: Junior..., ¡pero con muchas ganas! 💪
 
-##### Proyectos en los que he estado trabajando ultimamente: 
+#### Proyectos en los que he estado trabajando ultimamente: 
 -  [Anchors App](https://app-enlaces.netlify.app)
 -  [Omtech](https://omtech.info)
 
-## Formación: 
-- Formación académica: Actualmente cursando el Ciclo de Desarrollo Web
-- Cursos: Más de 70 cursos en estos dos últimos años.
+#### Formación en Desarrollo Web: 
+- Formación académica: Actualmente cursando el Ciclo Superior de Desarrollo de Aplicaciones Web (Java, PHP, SQL, Javascript, etc.)
+- Cursos: Más de 70 cursos realizados en estos dos últimos años.
