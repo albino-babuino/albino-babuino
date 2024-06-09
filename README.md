@@ -18,5 +18,5 @@
 ##### Nivel: Junior..., ¡pero con muchas ganas! 💪
 
 #### Formación en Desarrollo Web: 
-- Formación académica: Actualmente cursando el Ciclo Superior de Desarrollo de Aplicaciones Web (Java, PHP, SQL, Javascript, etc.)
+- Formación académica: Actualmente realizando proyecto final en el Ciclo Superior de Desarrollo de Aplicaciones Web (Java, PHP, SQL, Javascript, etc.)
 - Cursos: Más de 70 cursos realizados en estos dos últimos años.
