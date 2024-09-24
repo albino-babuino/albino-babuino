@@ -2,7 +2,7 @@
 
 #### Desarrollador Web 👨‍💻
 
-![react](https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=300)![node](https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=300) ![node](https://cdn.dribbble.com/users/14814/screenshots/16535574/reactlogo_4x.png?auto=compress&cs=tinysrgb&w=300)
+![react](https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=300)![node](https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=300) ![node]([https://cdn.dribbble.com/users/14814/screenshots/16535574/reactlogo_4x.png](https://res.cloudinary.com/dy9zlaudk/image/upload/v1727197600/react.png)
 
 #### Tecnologías:
 
