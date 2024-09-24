@@ -3,6 +3,7 @@
 #### Desarrollador Web 👨‍💻
 
 ![react](https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=300)![node](https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=300) ![node](https://res.cloudinary.com/dy9zlaudk/image/upload/v1727197600/react.png){width=400 height=200}
+<img src="[drawing.jpg](https://res.cloudinary.com/dy9zlaudk/image/upload/v1727197600/react.png)" alt="react" width="200"/>
 
 #### Tecnologías:
 
