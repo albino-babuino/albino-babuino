@@ -2,8 +2,8 @@
 
 #### Desarrollador Web 👨‍💻
 
-<img src="https://res.cloudinary.com/dy9zlaudk/image/upload/v1727197600/react.png" alt="react" width="400"/>
-<img src="https://res.cloudinary.com/dy9zlaudk/image/upload/v1727198298/nodejs.png" alt="react" width="400"/>
+<img src="https://res.cloudinary.com/dy9zlaudk/image/upload/v1727197600/react.png" alt="react" width="300"/>
+<img src="https://res.cloudinary.com/dy9zlaudk/image/upload/v1727198298/nodejs.png" alt="react" width="300"/>
 
 
 #### Tecnologías:
