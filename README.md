@@ -1,6 +1,4 @@
-## SERGIO GARCÍA LÓPEZ
-
-### Desarrollador Web 👨‍💻
+## Desarrollador Web 👨‍💻
 
 #### Titulación:
 > Ciclo Superior de Desarrollo de Aplicaciones Web
