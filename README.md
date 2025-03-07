@@ -1,25 +1,37 @@
-# SERGIO GARCÍA LÓPEZ
+## SERGIO GARCÍA LÓPEZ
 
-#### Desarrollador Web 👨‍💻
+### Desarrollador Web 👨‍💻
 
-<img src="https://res.cloudinary.com/dy9zlaudk/image/upload/v1727197600/react.png" alt="react" height="200"/> <img src="https://res.cloudinary.com/dy9zlaudk/image/upload/v1727198298/nodejs.png" alt="react" height="200"/>
-
+#### Titulación:
+> Ciclo Superior de Desarrollo de Aplicaciones Web
 
 #### Tecnologías:
+- **Frontend:**
+`Javascript/Typescript`
+`React`
+`VueJS`
+`Django`
+`CSS (Sass, Styled Components, Bootstrap, Materialize,...)`
 
-- Javascript
-- React
-- Node
-- MongoDB
-- MySql
-- Python / Django
-- Java
-- CSS (Sass, Styled Components, Bootstrap, Materialize,...)
-- Despliegue de aplicaciones con Netlify, Railway, Vercel,...
-- Otras: Git, Github, consola de comandos, NPM, Homebrew, Vite, expresiones regulares, Cloudinary, Nodemailer, Figma, scrapping, Auth0, smtp,...
+- **Backend:**
+`Node`
+`Python / Django`
+`Java`
+`MongoDB`
+`MySql/PostgreSQL/SqLite`
+`Despliegue de aplicaciones con Netlify, Railway, Vercel, Cloudinary,...`
 
-##### ¡A picar código! 💪
+- **Otras:**
+`Git`
+`Github/gitlab`
+`Vite`
+`Figma`
+`zsh, bash, powershell`
+`npm, pip, pnpm`
+`homebrew`
+`Expresiones regulares`
+`Automatización`
+`Scrapping`
+`I.A.: Chatgpt, Gemini, Deepseek, Claude, Copilot`
 
-#### Formación en Desarrollo Web: 
-- Formación académica: Actualmente realizando prácticas y proyecto final en el Ciclo Superior de Desarrollo de Aplicaciones Web (Java, PHP, SQL, Javascript, etc.)
-- Cursos: Más de 70 cursos realizados en estos dos últimos años.
+##### ¡Picar código es mi pasión! 💪
